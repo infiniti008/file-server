@@ -1,2 +1,2 @@
-# file-server
+# File-Server
 A simple configurable file server
